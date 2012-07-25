@@ -7,6 +7,6 @@ Though Despot77's configuration was beautiful, there was something missing. It w
 
 NOTES: 
 
-1. The time is being fetched using the strftime(3) from time.h. See the manual for more.
+1. The time is being fetched using the strftime(3) from time.h. See its man page for more.
 2. When adding conky as a startup application, it should start after the desktop starts as illustrated in setup.sh
 
